@@ -1,67 +1,59 @@
-<!--
+ <!--
   GitHub Profile README
-  Author: Diego Sarmiento
-  Brand: sarminick.dev
+  Autor: Diego Sarmiento
+  Marca: sarminick.dev
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0C0D0E,50:25170F,100:F97316&text=Diego%20Sarmiento&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Software%20Developer%20%7C%20Desarrollador%20de%20Software&descAlignY=62&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0C0D0E,50:25170F,100:F97316&text=Diego%20Sarmiento&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Desarrollador%20de%20Software%20%7C%20Full%20Stack&descAlignY=62&descSize=16&animation=fadeIn" />
 
 <a href="https://sarminick.dev">
-  <img src="https://img.shields.io/badge/Portfolio-sarminick.dev-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTAFOLIO-sarminick.dev-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://github.com/Disar-dev">
-  <img src="https://img.shields.io/badge/GitHub-Disar--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-Disar--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí | About Me
+## 👨‍💻 Sobre mí
 
-**¡Hola! Soy Diego Sarmiento.** 👋
+¡Hola! Soy **Diego Sarmiento** 👋
 
 Soy desarrollador de software con formación tecnológica en Análisis y Desarrollo de Software y experiencia en desarrollo web Full Stack.
 
-Me interesa construir soluciones digitales, desarrollar aplicaciones y explorar tecnologías que me permitan mejorar continuamente como desarrollador.
+Me interesa crear soluciones digitales, desarrollar aplicaciones y explorar nuevas tecnologías que me permitan crecer profesionalmente.
 
 Actualmente estoy fortaleciendo mis conocimientos en desarrollo backend con Java y Spring Boot, mientras continúo trabajando con tecnologías web.
 
----
-
-**Hi! I'm Diego Sarmiento.** 👋
-
-I'm a software developer with a background in Software Analysis and Development and experience in Full Stack web development.
-
-I'm passionate about building digital solutions, developing applications, and exploring technologies that help me grow as a developer.
-
-Currently, I'm strengthening my backend development skills with Java and Spring Boot while continuing to work with web technologies.
+Me caracterizo por tener curiosidad tecnológica, disposición para aprender y motivación para enfrentar nuevos desafíos de desarrollo.
 
 ---
 
-## 🛠️ Tecnologías | Tech Stack
+## 🛠️ Tecnologías y herramientas
 
-### Frontend Development
+### Desarrollo frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### Backend Development
+### Desarrollo backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,java,spring" />
 </p>
 
-### Databases
+### Bases de datos
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools & Environment
+### Herramientas y entorno de desarrollo
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,wordpress" />
@@ -69,44 +61,44 @@ Currently, I'm strengthening my backend development skills with Java and Spring 
 
 ---
 
-## 🌱 Actualmente aprendiendo | Currently Learning
+## 🌱 Actualmente aprendiendo
 
-- ☕ Java y desarrollo backend con Spring Boot.
+- ☕ Desarrollo backend con Java y Spring Boot.
 - ⚛️ Desarrollo de aplicaciones con React.
-- 🏗️ Arquitectura de software y buenas prácticas.
+- 🏗️ Arquitectura de software y buenas prácticas de programación.
 - 🔍 Estructuras de datos y resolución de problemas.
-- 🚀 Mejores prácticas de desarrollo y trabajo colaborativo.
+- 🚀 Metodologías y herramientas para el desarrollo de software.
 
 ---
 
-## 🚀 Proyectos destacados | Featured Projects
+## 🚀 Proyectos destacados
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Portfolio Web</h3>
+      <h3 align="center">Portafolio Web</h3>
       <div align="center">
         <a href="https://github.com/Disar-dev/Portafolio-Web">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-F97316?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/VER_REPOSITORIO-F97316?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
-      <p>Portafolio personal desarrollado con React y Vite para presentar mi experiencia, habilidades y proyectos.</p>
-      <p><strong>Technologies:</strong> React, JavaScript, Tailwind CSS, Vite.</p>
+      <p>Portafolio personal desarrollado para presentar mi perfil profesional, experiencia, habilidades y proyectos.</p>
+      <p><strong>Tecnologías:</strong> React, JavaScript, Tailwind CSS y Vite.</p>
     </td>
     <td width="50%">
-      <h3 align="center">More Projects Coming Soon</h3>
+      <h3 align="center">Próximos proyectos</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/IN_PROGRESS-252525?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/EN_DESARROLLO-252525?style=for-the-badge&logo=github&logoColor=white" />
       </div>
       <p>Explorando nuevas ideas y desarrollando proyectos para ampliar mi experiencia en ingeniería de software.</p>
-      <p><strong>Focus:</strong> Backend, Full Stack y Software Engineering.</p>
+      <p><strong>Enfoque:</strong> Backend, Full Stack e ingeniería de software.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -118,27 +110,23 @@ Currently, I'm strengthening my backend development skills with Java and Spring 
 
 ---
 
-## 🤝 Conectemos | Let's Connect
+## 🤝 Conectemos
 
-Estoy abierto a oportunidades laborales, colaboraciones y proyectos donde pueda aportar mis conocimientos y seguir creciendo profesionalmente.
-
-I'm open to job opportunities, collaborations, and projects where I can contribute my skills and continue growing professionally.
+Estoy abierto a oportunidades laborales, colaboraciones y proyectos en los que pueda aportar mis conocimientos y continuar creciendo profesionalmente.
 
 <div align="center">
 
 <a href="https://sarminick.dev">
-  <img src="https://img.shields.io/badge/Website-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTAFOLIO-F97316?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://github.com/Disar-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
 
-**"Construyendo, aprendiendo y evolucionando una línea de código a la vez."**
-
-*Building, learning, and evolving one line of code at a time.*
+**«Construyendo, aprendiendo y evolucionando una línea de código a la vez».**
 
 </div>
