@@ -16,7 +16,6 @@
 </a>
 
 </div>
----
 
 ## Sobre mí
 
@@ -24,34 +23,34 @@
 
 Soy desarrollador de software con formación tecnológica en Análisis y Desarrollo de Software y experiencia en desarrollo web Full Stack.
 
-Me caracterizo por tener curiosidad tecnológica, disposición para aprender y motivación para enfrentar nuevos desafíos de desarrollo, crear soluciones digitales, desarrollar aplicaciones y explorar nuevas tecnologías que me permitan crecer profesionalmente.
+Me caracterizo por tener curiosidad tecnológica, disposición para aprender y motivación para enfrentar nuevos desafíos de desarrollo, y explorar nuevas tecnologías que me permitan crecer profesionalmente.
 
-
----
 
 ## Tecnologías y herramientas
 
 ### Desarrollo Frontend
 
-<p style="Display: flex; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" style="pointer-events: none; cursor: default;"/>
 </p>
+
 ### Desarrollo Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,java,spring" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,java,spring" style="pointer-events: none; cursor: default;"/>
 </p>
+
 ### Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" style="pointer-events: none; cursor: default;"/>
 </p>
+
 ### Herramientas y entorno de desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,wordpress" style="pointer-events: none; cursor: default;"/>
 </p>
----
 
 ## Conectemos
 
@@ -61,5 +60,4 @@ Estoy abierto a oportunidades laborales, colaboraciones y proyectos en los que p
   <a href="https://linkedin.com/in/diego-sarmiento-07b0b53b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:sarminick.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
 
