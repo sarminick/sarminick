@@ -32,29 +32,27 @@ Me caracterizo por tener curiosidad tecnológica, disposición para aprender y m
 
 ### Desarrollo Frontend
 
-<div style="pointer-events: none; cursor: default;">
- <p>
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
- </p>
- 
- ### Desarrollo Backend
- 
- <p>
-   <img src="https://skillicons.dev/icons?i=php,nodejs,java,spring" />
- </p>
- 
- ### Bases de datos
- 
- <p>
-   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
- </p>
- 
- ### Herramientas y entorno de desarrollo
- 
- <p>
-   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,wordpress" />
- </p>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" style="pointer-events: none; cursor: default;"/>
+</p>
+
+### Desarrollo Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,java,spring" style="pointer-events: none; cursor: default;"/>
+</p>
+
+### Bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" style="pointer-events: none; cursor: default;"/>
+</p>
+
+### Herramientas y entorno de desarrollo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,wordpress" style="pointer-events: none; cursor: default;"/>
+</p>
 ## Conectemos
 
 Estoy abierto a oportunidades laborales, colaboraciones y proyectos en los que pueda aportar mis conocimientos y continuar creciendo profesionalmente.
