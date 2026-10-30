@@ -26,8 +26,6 @@ Soy desarrollador de software con formación tecnológica en Análisis y Desarro
 Me caracterizo por tener curiosidad tecnológica, disposición para aprender y motivación para enfrentar nuevos desafíos de desarrollo, y explorar nuevas tecnologías que me permitan crecer profesionalmente.
 
 
----
-
 ## Tecnologías y herramientas
 
 ### Desarrollo Frontend
@@ -53,6 +51,7 @@ Me caracterizo por tener curiosidad tecnológica, disposición para aprender y m
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,wordpress" style="pointer-events: none; cursor: default;"/>
 </p>
+
 ## Conectemos
 
 Estoy abierto a oportunidades laborales, colaboraciones y proyectos en los que pueda aportar mis conocimientos y continuar creciendo profesionalmente.
