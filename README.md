@@ -35,22 +35,24 @@ Me caracterizo por tener curiosidad tecnológica, disposición para aprender y m
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
+
 ### Desarrollo Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,nodejs,java,spring" />
 </p>
+
 ### Bases de datos
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
+
 ### Herramientas y entorno de desarrollo
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,wordpress" />
 </p>
----
 
 ## Conectemos
 
